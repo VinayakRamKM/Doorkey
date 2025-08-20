@@ -1,7 +1,6 @@
 import image from "@mui/icons-material/Star";
 import line22 from "@mui/icons-material/Star";
 import line23 from "@mui/icons-material/Star";
-import vector from "./vector.png";
 import { Box, Container, Grid, Stack, Typography } from "@mui/material";
 import React from "react";
 import { DivSubsection } from "./DivSubsection";
